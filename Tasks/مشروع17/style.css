@@ -1,0 +1,202 @@
+.up{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+.start{
+    background-color: rgb(255, 255, 255);
+    height: 800px;
+    width: 250px;
+    position: fixed;
+    left: 0px;
+}
+.start2{
+    
+    height: 800px;
+    width: 250px;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+}
+.father .child img{
+    height: 300px;
+    width: 300px;
+    gap: 5px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.up .start img{
+    width: 30px;
+    height: 30px;
+    display: block;
+}
+.up .start .img1{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.up .start .s1{
+    position: absolute;
+    top: 50px;
+    left: 90px;
+}
+.up .start .s2{
+    position: absolute;
+    top: 100px;
+    left: 10px;
+    height: 30px;
+    width: 140px;
+    background-color: blue;
+    text-align: center;
+    border-radius: 20px;
+}
+.up .start .img2{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 170px;
+    left: 10px;
+}
+.up .start .s3{
+    position: absolute;
+    top: 170px;
+    left: 40px;
+}
+.up .start .img3{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 220px;
+    left: 10px;
+}
+.up .start .s4{
+    position: absolute;
+    top: 220px;
+    left: 40px;
+}
+.up .start .img4{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 270px;
+    left: 10px;
+}
+.up .start .s5{
+    position: absolute;
+    top: 270px;
+    left: 40px;
+}
+.up .start .img5{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 320px;
+    left: 10px;
+}
+.up .start .s6{
+    position: absolute;
+    top: 320px;
+    left: 40px;
+}
+.up .start .img6{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 370px;
+    left: 10px;
+}
+.up .start .s7{
+    position: absolute;
+    top: 370px;
+    left: 40px;
+}
+.up .start .img7{
+    position: absolute;
+    top: 600px;
+    left: 40px;
+    width: 20px;
+    height: 20px;
+}
+.up .start .s8{
+    position: absolute;
+    top: 600px;
+    left: 70px;
+}
+.up .start .s9{
+    position: absolute;
+    top: 600px;
+    right: 20px;
+}
+.up .start progress{
+    position: absolute;
+    top: 630px;
+    right: 40px;
+}
+.up .start button{
+    position: absolute;
+    top: 660px;
+    right: 70px;
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+}
+.up .start2 img{
+    width: 250px;
+    height: 450px;
+    position: absolute;
+    top: 130px;
+}
+.up .start2 .s1{
+    position: absolute;
+    top: 80px;
+    font-weight: bold;
+}
+.up .start2 .s2{
+    position: absolute;
+    top: 80px;
+    left: 130px;
+    font-weight: bold;
+}
+.father{
+    width: calc(100% - 500px);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around; 
+  overflow: hidden;
+  position: relative;
+  left: 150px;
+  
+}
+.father .child{
+    display: flex;
+    
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content: space-around;
+}
+*{
+      gap: 200px;
+    padding: 0px;
+    margin: 0px;
+}
+.father .child2 img{
+    width: 40px;
+    height: 40px;
+}
+.father .child3 .img1{
+    width: 500px;height: 200px;
+}
+.father .child3{
+    display: flex;
+    flex-direction: row;
+}
+.father .child3 .img2{
+    height: 200px;
+}

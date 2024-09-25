@@ -1,0 +1,31 @@
+button{
+    width: 40%;
+}
+input{
+    width: 40%;
+}
+p{
+color: #00000021;
+}
+h5{
+    position: relative;
+    left: 450px;
+    top: 20px;
+}
+h4{
+    text-align:left;
+    position: relative;
+    left: 470px;
+    
+}
+.aa{
+    color: rgba(255, 0, 0, 0.322);
+    display: inline-block;
+position: relative;
+
+top: -60px;
+
+}
+.g{
+   background-color:blue ; color: white; height: 40px; width: 25%;
+}

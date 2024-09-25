@@ -1,0 +1,329 @@
+
+
+
+
+
+.up{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(1, 1, 56);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;
+    
+}
+.up .d1 .s1{
+color: rgba(255, 255, 255, 0.644);
+position: absolute;
+right: 300px;
+top: 20px;
+}
+.up .d1 .s2{
+    color: rgba(0, 0, 255, 0.644);
+    position: absolute;
+    right: 200px;
+    top: 20px;
+}
+.up .d2 h2{
+    color: white;
+    position: relative;
+    left: 100px;
+    top: 100px;
+
+}
+.up .d2 p{
+    color: rgba(255, 255, 255, 0.644);
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.up .d2 button{
+    background-color: blue;
+    color: white;
+    position: relative;
+    top: 150px;
+    left: 130px;
+    height: 30px;
+    width: 150px;
+}
+.up .d3{
+    width: 320px;
+    height: 400px;
+    background-color: aliceblue;
+    position: relative;
+    top: 250px;
+    left: 600px;
+
+}
+.up .d3 img{
+    width: 80px;
+    height: 80px;
+    border-radius: 2%;
+    position: relative;
+    margin: 20px;
+}
+.up .d3 span{
+    position: relative;
+    top: -60px;
+}
+.up .d3 .s1{
+    position: relative;
+    left: -15px;
+}
+.up .d3 .s2{
+    position: relative;
+    left: 30px;
+    color: rgb(5, 197, 5);
+}
+.up .d3 p{
+    position: relative;
+    left: 120px;
+    top: -70px;
+    color: rgba(0, 0, 0, 0.418);
+}
+.up .d3 .img1{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: -60px;
+}
+.up .d3 .p1{
+    position: relative;
+    top: -120px;
+    left: 70px;
+}
+.up .d3 .input1{
+    background-color: aliceblue;
+    width: 80%;
+    height: 30px;
+    position: relative;
+    left: 30px;
+    top: -90px;
+}
+.up .d3 .input2{
+    background-color: aliceblue;
+    width: 80%;
+    height: 30px;
+    position: relative;
+    left: 30px;
+    top: -70px;
+}
+.up .d3 .input3{
+    background-color: aliceblue;
+    width: 35%;
+    height: 30px;
+    position: relative;
+    left: 30px;
+    top: -50px;
+}
+.up .d3 .input4{
+    background-color: aliceblue;
+    width: 35%;
+    height: 30px;
+    position: relative;
+    left: 60px;
+    top: -50px;
+}
+.up .d3 button{
+    background-color:blue;
+    color: white;
+    width: 80%;
+    height: 30px;
+    position: relative;
+    left: 30px;
+    top: -20px;
+}
+.center{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;   
+}
+.center .d1{
+    width: 200px;
+    height: 250px;
+    background-color: aliceblue;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.center .d1 p{
+    position: relative;
+    left: 20px;
+}
+.center .d1 button{
+    color: blue;
+    background-color: blue;
+    position: relative;
+    top: 10px;
+    left: 127px;
+}
+.center .d2{
+    width: 200px;
+    height: 250px;
+    background-color: aliceblue;
+    position: relative;
+    top: 220px;
+    left: 400px;
+}
+.center .d2 p{
+    position: relative;
+    left: 20px;
+}
+.center .d2 button{
+    color: green;
+    background-color:green;
+    position: relative;
+    top: 10px;
+    left: 127px;
+}
+.center .d3{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: blue;
+  box-shadow: 20px 20px 10px 0px rgb(6, 137, 251) ; 
+    position: relative;
+    top: 100px;
+    left: 150px;
+}
+.center .d3 span{
+    font-weight: bold;
+    font-size: 100px;
+    position: relative;
+    left: 30px;
+    top: -30px;
+    color: rgb(0, 174, 255);
+}
+.center h1{
+    position: relative;
+    top: 150px;
+    left: 220px;
+}
+.center .p{
+    position: relative;
+    top: 220px;
+}
+.center .p1{
+    position: relative;
+    top: 250px;
+    left: -380px;
+}
+.finish h1{
+    position: relative;
+    left: 300px;
+}
+.finish p{
+    position: relative;
+    left: 300px;
+    width: 330px;
+    color: #00000079;
+}
+.finish .d1{
+    width: 30%;
+    height: 300px;
+    background-color: rgba(240, 248, 255, 0.601);
+    position: relative;
+    left: 800px;
+    top: -100px;
+}
+.finish .d2{
+    width: 300px;
+    height: 400px;
+    background-color: aliceblue;
+    position: relative;
+    left: 800px;
+    top: -450px;
+    left: 870px;
+}
+.finish .d2 .f1{
+    width: 80%;
+    height: 30px;
+    position: relative;
+    left:20px ;
+    top: 20px;
+    background-color: rgb(96, 94, 94);
+}
+.finish .d2 .f2{
+    width: 80%;
+    height: 30px;
+    position: relative;
+    left:20px ;
+    top: 40px;
+    background-color: rgb(96, 94, 94);
+}
+.finish .d2 .f3{
+    width: 80%;
+    height: 30px;
+    position: relative;
+    left:20px ;
+    top: 60px;
+    background-color: rgb(96, 94, 94);
+}
+.d5 {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(3, 3, 49);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.d5 h1{
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    
+
+}
+.d5 p{
+    color: white;
+}
+*{
+    margin: 0px;
+    padding: opx;
+    gap: 20px;
+}
+.father{
+    width: 100%;
+    height: 400px;
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap-reverse;
+    gap: 50px;
+}
+.father .d7 img{
+    width: 300px;
+    height: 300px;
+}
+.father .d6{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

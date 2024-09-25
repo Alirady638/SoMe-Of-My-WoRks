@@ -1,0 +1,12 @@
+img{
+    height: 200px;width: 100%;
+}
+body{
+    background-color: rgb(233, 233, 233);
+}
+h1{
+    font-size: 80px; font-style: oblique; 
+}
+h3{
+    width: 100%; font-size: 60px;font-family: 'Courier New', Courier, monospace;
+}

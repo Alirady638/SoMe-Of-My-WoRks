@@ -1,0 +1,46 @@
+body{
+    background-color: rgba(190, 194, 239, 0.493);
+}
+h3{
+    display: inline;
+    position: relative;
+    top: 0px;
+    right: -1360px;
+   
+}
+img{
+    display: inline;
+    position: relative;
+    top: 15px;
+    left: 1150px;
+    
+}
+div{
+     display: inline-block;
+}
+h4{
+    text-align: right;
+    color: #00000034;
+}
+.a1{
+    position: relative;
+    top: -15px;
+}
+button{
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    position: relative;
+    right: -1360px;
+    background-color: rgba(190, 194, 239, 0.041);
+}
+.aa{
+    width: 500px;
+    display: block;
+    position: relative;
+    left: 10px;
+    height: 470px;
+}
+a{
+    display: inline;
+}
